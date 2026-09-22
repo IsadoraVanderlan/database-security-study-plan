@@ -12,7 +12,7 @@
 
 ---
 
-# 📚 Aulas
+## 📚 Aulas
 
 | Aula | Tema | Conteúdo | Status | Ver Resumo |
 |---|---|---|---|---|
@@ -40,6 +40,6 @@
 
 ---
 
-# 🤝 Agradecimentos
+## 🤝 Agradecimentos
 
 Agradecimento especial ao **Edson Bezerra** (_Manager, LATAM Cyber Security Infrastructure Services - DXC Technology_) pela mentoria, orientações estratégicas e incentivo na estruturação deste plano de estudos.
