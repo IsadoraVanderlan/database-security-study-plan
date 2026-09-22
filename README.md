@@ -4,6 +4,14 @@
 
 ---
 
+## 📌 Legenda de Status
+
+- ❌ **Não Iniciado**
+- ⏳ **Em Andamento**
+- ✅ **Concluído**
+
+---
+
 # 📚 Aulas
 
 | Aula | Tema | Conteúdo | Status | Ver Resumo |
