@@ -1,6 +1,6 @@
 # 🗄️ Database Security & Cloud Security
 
-> Plano de estudos de **MySQL, PostgreSQL e AWS RDS**, com foco em segurança de bancos de dados para Cloud Security Junior.
+> > Plano de estudos de **segurança de bancos de dados relacionais**, utilizando **MySQL e PostgreSQL**, com aplicação dos conceitos de segurança em ambientes.
 
 ---
 
