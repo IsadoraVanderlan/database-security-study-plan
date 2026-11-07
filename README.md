@@ -42,4 +42,4 @@
 
 ## 🤝 Agradecimentos
 
-Agradecimento especial ao **Edson Bezerra** (_Manager, LATAM Cyber Security Infrastructure Services - DXC Technology_) pela mentoria, orientações estratégicas e incentivo na estruturação deste plano de estudos.
+Agradecimento especial a [Edson Bezerra](https://www.linkedin.com/in/edsbezerra/), pela mentoria, direcionamento técnico e proposta utilizada como base para o desenvolvimento deste laboratório.
